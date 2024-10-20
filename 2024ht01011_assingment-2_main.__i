@@ -1,0 +1,6 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork 
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\Philips
+-D__UVISION_VERSION="526"
+-o .\2024ht01011_assingment-2_main.o --omf_browse .\2024ht01011_assingment-2_main.crf --depend .\2024ht01011_assingment-2_main.d "2024ht01011_Assingment-2_main.c"

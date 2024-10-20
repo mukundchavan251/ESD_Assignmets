@@ -1,0 +1,4 @@
+Dependencies for Project '2024ht01011_Assingment-2_Q3', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 526"--list .\listings\lpc2300.lst --xref -o .\objects\lpc2300.o --depend .\objects\lpc2300.d)
+F (.\2024HT01011_Q3.c)(0x67132FC7)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\objects\2024ht01011_q3.o --omf_browse .\objects\2024ht01011_q3.crf --depend .\objects\2024ht01011_q3.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC23xx.h)(0x559CFE30)
